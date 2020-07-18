@@ -1,2 +1,2 @@
 # tesis
-Scripts utilizados para realizar análisis de datos relacionados con mi tesis doctoral
+Utilidades varias relacionadas con el trabajo desarrollado durante mi tesis doctoral
