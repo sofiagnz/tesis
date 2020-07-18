@@ -1,2 +1,2 @@
 # tesis
-Archivos utilizados para realizar análisis durante mi tesis doctoral
+Scripts utilizados para realizar análisis de datos relacionados con mi tesis doctoral
